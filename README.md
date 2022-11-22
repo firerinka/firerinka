@@ -2,12 +2,12 @@
 ---
 
 ### About me:
-- I’ve been working as fullstack QA engineer and QA Manager since 2011
+- 🔭 I’ve been working as fullstack QA engineer and QA Manager since 2011
 - 📫 How to reach me: [<img width="3%" title="LinkedIn" src="images/logo/LinkedIn.png">](https://www.linkedin.com/in/marina-remneva-b9171534/)
 ### 
 
 ### An example of my test automation project (Web, API and mobile tests):
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firerinka&repo=TodoistAutotests)](https://github.com/firerinka/TodoistAutotests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=firerinka&repo=todoistautotests)](https://github.com/firerinka/TodoistAutotests)
 #### Used tools and technologies:
 <p align="center">
 <code><img width="6%" title="IntelliJ IDEA" src="images/logo/IntelijIDEA.svg"></code>
