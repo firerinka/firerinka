@@ -2,7 +2,7 @@
 ---
 
 ### About me:
-- I’d been working as fullstack QA engineer and QA Manager since 2011
+- I’ve been working as fullstack QA engineer and QA Manager since 2011
 - 📫 How to reach me: [<img width="3%" title="LinkedIn" src="images/logo/LinkedIn.png">](https://www.linkedin.com/in/marina-remneva-b9171534/)
 ### 
 
